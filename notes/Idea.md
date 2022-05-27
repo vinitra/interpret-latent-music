@@ -27,9 +27,9 @@ MIDI files, data granularity —
 
 **Links:**
 
-[MultitrackVAE](https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/Multitrack_MusicVAE.ipynb)
-[UChicago Deep Learning Tutorial](https://github.com/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/tree/main/week-6)
-[Magenta](https://magenta.tensorflow.org/)
-[Midi2Vec repo](https://github.com/midi-ld/midi2vec)
-[Midi2Vec embeddings](https://github.com/pasqLisena/midi-embs)
-[Midi2Vec paper](http://www.semantic-web-journal.net/system/files/swj2844.pdf)
+[MultitrackVAE](https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/Multitrack_MusicVAE.ipynb)  
+[UChicago Deep Learning Tutorial](https://github.com/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/tree/main/week-6)  
+[Magenta](https://magenta.tensorflow.org/)  
+[Midi2Vec repo](https://github.com/midi-ld/midi2vec)  
+[Midi2Vec embeddings](https://github.com/pasqLisena/midi-embs)  
+[Midi2Vec paper](http://www.semantic-web-journal.net/system/files/swj2844.pdf)  

@@ -7,6 +7,6 @@ Project for Computers and Music at EPFL, Spring 2022.
 - analogous to word-embedding literature, we will identify transformations in this vector space to restructure the space into these dimensions
 
 Methodologies: 
-PCA latent space exploration, T-SNE, intuition comparison. 
+PCA latent space exploration, T-SNE, intuition comparison.  
 find dimensions of pitch, tempo, tonality, timbre, “the drops” in electronic music, etc.  
 MusicVAE, Midi2Vec. 

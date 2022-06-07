@@ -1,0 +1,3 @@
+[submodule "midi2vec"]
+	path = midi2vec
+	url = https://github.com/midi-ld/midi2vec.git

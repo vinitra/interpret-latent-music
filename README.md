@@ -1,13 +1,20 @@
-# interpret-latent-music
-Project for Computers and Music at EPFL, Spring 2022.
+# Musical Embeddings
 
+**Project for Computers and Music at EPFL, Spring 2022.**
 
-[Overview Presentation](https://docs.google.com/presentation/d/14C4IJDRSswYZF9_xA9hZGqht-zm_1Iw3Fto9kAC9XLg/edit)
+**Team:** 
+- Vinitra Swamy
+- Viktor Sanca
+- Bhargav Srinivasa Desikan
+- Manoel Horta Ribeiro
 
-- each song is a vector represented in the vector space
-- analogous to word-embedding literature, we will identify transformations in this vector space to restructure the space into these dimensions
+In this project we create and explore latent representations of midi files. We were largely inspired by the paper:
 
-Methodologies: 
-PCA latent space exploration, T-SNE, intuition comparison.  
-find dimensions of pitch, tempo, tonality, timbre, “the drops” in electronic music, etc.  
-MusicVAE, Midi2Vec. 
+> Pasquale Lisena, Albert Meroño-Peñuela, Raphaël Troncy. MIDI2vec: Learning MIDI Embeddings for Reliable Prediction of Symbolic Music Metadata, to appear in Semantic Web Journal, Special Issue on Deep Learning for Knowledge Graphs, 2021. http://www.semantic-web-journal.net/content/midi2vec-learning-midi-embeddings-reliable-prediction-symbolic-music-metadata-0, Code: https://github.com/midi-ld/midi2vec
+
+The project is divided across three different notebooks:
+
+1. `01_midi2vec.ipynb` — where we re-implement the MIDI2Vec algorithm
+2. `02_data_processing` — where we develop a pipeline to get metadata related to the Lakh MIDI Dataset.
+3. `03_explorations` — where we use the embeddings provided in Lisena et al. and perform analyses on the structure of latent representations.
+
